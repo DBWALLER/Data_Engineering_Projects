@@ -3,17 +3,19 @@
 ------------------------------------------------------------------------------
 01. Crime rates in São Paulo state, Brazil
 
-I scrapped data and created an entire dataset  from Civil Police statistics site:  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx
-I used Selenium Package from Python to naviagte through the pages and Pandas to include year, city and region data in the dataset.
+The aim is to analysie crime tdata in São Paulo state , Brazil.
 
-Crime Interpretation manual:  http://www.ssp.sp.gov.br/Estatistica/download/manual.pdf
-(available only in brazilian  portuguese)
+Data is available at Civil state Police statistics site:  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx
 
+Since there is no API or JSON file available in the website, I scrapped data and created an entire dataset in Python. I used Selenium library to navigate through the pages and extract data and Pandas library to create dataframes from the scrapped data, including the crime data, year, city and region data
 
-Part 1 - Data extraction via webscrapping with Selenium package (Python), since there is no API or JSON file available in the website.
+Obs.: Crime Interpretation manual available only in brazilian  portuguese at:  http://www.ssp.sp.gov.br/Estatistica/download/manual.pdf
 
-Part 2 (to be released soon) - Chorpleth maps for states and cities
+Part 1 - Data extraction via webscrapping with Selenium library (Python), 
 
+Part 2 (to be released soon) - Choropleth maps for states and cities
+
+tbc
 
      
 -----------------------------------------------------------------------------
