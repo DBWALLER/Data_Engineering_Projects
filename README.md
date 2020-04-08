@@ -13,13 +13,7 @@ Since there is no API or JSON file available in the website, I scrapped data dir
 
 
 Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python):
-
-  - ds_SPcities_coordinates.csv : extracted from IBGE site.
-  - 
-
-
-
-
+Extracted satasets available in the project folder.
 
 Part 2 (to be released soon) - Choropleth maps for states and cities
 
@@ -27,12 +21,12 @@ Part 2 (to be released soon) - Choropleth maps for states and cities
 ------------------------------------------------------------------------------
 02. Tabela FIPE 
 
-Webscrapping of Tabela FIPE to extract data of average value of cars, trucks and motocycles, in brazilian Reais (BRL / R$).
+Webscrapping of Tabela FIPE data (no official  API available) , containing  average value of cars, trucks and motocycles. Values in brazilian Reais (BRL / R$).
 
-tbc
+
 
      
 -----------------------------------------------------------------------------
-
+tbc
 
 
