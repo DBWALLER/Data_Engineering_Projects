@@ -15,6 +15,8 @@ Since there is no API or JSON file available in the website, I scrapped data dir
 Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python):
 Extracted datasets until dec/2019  available in the project folder.
  
+ Data available until march 2020.
+ 
  <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/80321175-6c2d5600-87f1-11ea-9642-dbb6e8671ee3.png">
 
 Part 2 (to be released soon) - Choropleth maps for states and cities
