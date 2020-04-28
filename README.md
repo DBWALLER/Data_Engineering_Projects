@@ -20,10 +20,10 @@ Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python)
 Part 2 (to be released soon) - maps
 
 -----------------------------------------------------------------------------
-#### IBGE data tables   
+#### 1b) IBGE data tables   
 (to be used in Part 2)
 
-If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the following PyIBGE module, developed by Renan Birck:  
+If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the PyIBGE module, developed by Renan Birck:  
 https://github.com/renanbirck/pyibge
 
 This module accesses the API fron IBGE, described in the site http://api.sidra.ibge.gov.br/ 
@@ -36,7 +36,7 @@ Command lines in Python:
       import pyIBGE
 
 -----------------------------------------------------------------------------
-### 2) Tabela FIPE   
+### 2) FIPE tabel (Tabela FIPE)   
 
 Webscrapping of Tabela FIPE data (no official  API available) , containing  average value of cars, trucks and motocycles. Values in brazilian Reais (BRL or R$).
 
