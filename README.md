@@ -36,7 +36,7 @@ Command lines in Python:
       import pyIBGE
 
 -----------------------------------------------------------------------------
-### 2) FIPE tabel (Tabela FIPE)   
+### 2) FIPE table (Tabela FIPE)   
 
 Webscrapping of Tabela FIPE data (no official  API available) , containing  average value of cars, trucks and motocycles. Values in brazilian Reais (BRL or R$).
 
