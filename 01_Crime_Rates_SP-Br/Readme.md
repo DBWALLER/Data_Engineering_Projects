@@ -14,7 +14,7 @@ Tabela com coordenadas geográficas das cidades de São Paulo e código IBGE  ( 
 -  ds_SPcities_coordinates.csv  
 
 -------------------------------------------------------------------------------
-### Project 1. Crime rates in São Paulo state, Brazil
+### About Project 1: Crime rates in São Paulo state, Brazil
 
 The aim is to obtain crime data in São Paulo state , Brazil.
 
