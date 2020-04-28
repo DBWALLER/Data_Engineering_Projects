@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------
 ### 1. Crime rates in São Paulo state, Brazil
 
-The aim is to analysie crime tdata in São Paulo state , Brazil.
+The aim is to obtain crime data in São Paulo state , Brazil.
 
 Data is available at Civil state Police statistics site:  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx   
 
