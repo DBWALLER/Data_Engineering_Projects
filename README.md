@@ -20,7 +20,8 @@ Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python)
 Part 2 (to be released soon) - maps
 
 -----------------------------------------------------------------------------
-#### 1b) IBGE data tables (used in the Project 01):  
+#### IBGE data tables   
+(to be used in Part 2)
 
 If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the following PyIBGE module, developed by Renan Birck:  
 https://github.com/renanbirck/pyibge
