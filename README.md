@@ -1,7 +1,7 @@
 # Data  Mining projects  (Python)
 
 ------------------------------------------------------------------------------
-01. Crime rates in São Paulo state, Brazil
+### 1. Crime rates in São Paulo state, Brazil
 
 The aim is to analysie crime tdata in São Paulo state , Brazil.
 
@@ -19,7 +19,7 @@ Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python)
 Part 2 (to be released soon) - maps
 
 -----------------------------------------------------------------------------
-01b) IBGE data tables (used in the Project 01):
+#### 1b) IBGE data tables (used in the Project 01):  
 
 If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the following PyIBGE module, developed by Renan Birck:  
 https://github.com/renanbirck/pyibge
@@ -34,7 +34,8 @@ Command lines in Python:
       import pyIBGE
 
 -----------------------------------------------------------------------------
-02) Tabela FIPE 
+### 2) Tabela FIPE   
+
 Webscrapping of Tabela FIPE data (no official  API available) , containing  average value of cars, trucks and motocycles. Values in brazilian Reais (BRL / R$).
 
 -----------------------------------------------------------------------------
