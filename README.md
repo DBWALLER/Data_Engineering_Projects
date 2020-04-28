@@ -1,4 +1,4 @@
-# Data Science projects
+# Data  Mining projects  (Python)
 
 ------------------------------------------------------------------------------
 01. Crime rates in São Paulo state, Brazil
@@ -11,26 +11,32 @@ Obs.: Crime type interpretation manual available (only in brazilian  portuguese)
 Since there is no API or JSON file available in the website, I scrapped data directly and created an entire dataset in Python. I used Selenium library to navigate through the pages and extract data and Pandas library to create dataframes from the scrapped data, including the crime types, year, city and region.
 
 
-
-Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python):
-Extracted datasets until dec/2019  available in the project folder.
- 
- Data available until march 2020.
+Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python) and framework manipulation with Pandas:
+ Data available until march 2020. see project folder. 
  
  <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/80321175-6c2d5600-87f1-11ea-9642-dbb6e8671ee3.png">
 
-Part 2 (to be released soon) - Choropleth maps for states and cities
+Part 2 (to be released soon) - maps
 
+-----------------------------------------------------------------------------
+01b) IBGE data tables (used in the Project 01):
 
-------------------------------------------------------------------------------
-02. Tabela FIPE 
+If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the following PyIBGE module, developed by Renan Birck:  
+https://github.com/renanbirck/pyibge
 
+This module accesses the API fron IBGE, described in the site http://api.sidra.ibge.gov.br/ 
+
+After you donwload it, you have to add the folder containing the module into the sys.path of your computer, so Python can indentify this module  via 'import'command.
+
+Command lines in Python:
+      import sys
+      sys.path.append(r'yourpath\pyIBGE')
+      import pyIBGE
+
+-----------------------------------------------------------------------------
+02) Tabela FIPE 
 Webscrapping of Tabela FIPE data (no official  API available) , containing  average value of cars, trucks and motocycles. Values in brazilian Reais (BRL / R$).
 
-
-
-     
 -----------------------------------------------------------------------------
-tbc
 
 
