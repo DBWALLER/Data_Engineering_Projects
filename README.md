@@ -25,9 +25,9 @@ Part 2 (to be released soon) - maps
 If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the PyIBGE module, developed by Renan Birck:  
 https://github.com/renanbirck/pyibge
 
-This module accesses the API fron IBGE, described in the site http://api.sidra.ibge.gov.br/ 
+This module accesses the API from IBGe website:  http://api.sidra.ibge.gov.br/ 
 
-After you download it, you have to add the folder containing the module into the sys.path of your computer, so Python can indentify this module  via 'import'command.
+After you download the module in your local environment, you have to add the folder containing the module into the sys.path of your computer, so Python can indentify this module via 'import' command.
 
 Command lines in Python:
       import sys
