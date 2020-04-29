@@ -30,7 +30,7 @@ Obs.: Crime type interpretation manual available (only in brazilian  portuguese)
 Since there is no API or JSON file available in the website, I scrapped data and created 3 complete datasetsin Python.
 
 Part 1 - Data extraction via webscrapping  using Selenium library, to navigate through the pages and extract data, and Pandas library to create and deal with dataframes from the scrapped data, including the crime types, year, city and region.
- Data available until march 2020. see project folder. 
+ Data available until march 2020.  
  
  <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/80321175-6c2d5600-87f1-11ea-9642-dbb6e8671ee3.png">
  
