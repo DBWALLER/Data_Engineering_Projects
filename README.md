@@ -23,12 +23,11 @@ Part 2 (to be released soon) - maps
 ### 1b) IBGE data tables   
 (to be used in Part 2)
 
-If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the PyIBGE module, developed by Renan Birck:  
-https://github.com/renanbirck/pyibge
+If you want to gather any table from the Brazilian Institute of Geography and Statistics - IBGE - site , I suggest using the PyIBGE module, developed by Renan Birck: https://github.com/renanbirck/pyibge
 
 This module accesses the API from IBGe website:  http://api.sidra.ibge.gov.br/ 
 
-After you download the module in your local environment, you have to add the folder containing the module into the sys.path of your computer, so Python can indentify this module via 'import' command.
+After you download the module PyIBGE in a local folder, you have to add the folder path into the sys.path of your computer. So Python can identify this module via 'import' command as you work with it.
 
 Command lines in Python:
       import sys
