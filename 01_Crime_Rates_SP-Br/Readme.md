@@ -1,4 +1,9 @@
 ### Datasets disponíveis:
+ - Taxas de Delito
+ - Ocorrências mensais
+ - Produtividade policial
+ 
+ 
 
 Dados SSP de 2001 até 2019:
  - ds_Taxa_crime_SP-BR_v3_complete_utf8-2001-2019.csv  
