@@ -16,7 +16,6 @@ Part 1 - Data extraction via webscrapping with Selenium library (Jupyter/Python)
  Data available until march 2020. see project folder. 
  
  <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/80321175-6c2d5600-87f1-11ea-9642-dbb6e8671ee3.png">
-
 Part 2 (to be released soon) - maps
 
 -----------------------------------------------------------------------------
