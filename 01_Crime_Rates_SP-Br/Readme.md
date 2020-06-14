@@ -11,7 +11,7 @@
      Dados SSP de 2020 - 1o trimestre ( jan/ fev/mar):
      - ds_OcorrenciasMensais_2020_T1.csv  
      - ds_ProdutPolicial_SP-BR_2020_T1.csv     
-     *As informações sobre taxas de delitos de 2020 não estão disponíveis. Serão divulgadas apenas em 2021, quando os dados de 2020           forem consolidados.
+     *As informações sobre taxas de delitos do ano vigente ficam dispoínveis apenas no ano seguintes, após consolidação dos dados.
 
  -  Coordenadas geográficas das cidades de Sao Paulo : ds_SPcities_coordinates.csv  
  Tabela com coordenadas geográficas das cidades de São Paulo e código IBGE  ( Fonte: IBGE) 
