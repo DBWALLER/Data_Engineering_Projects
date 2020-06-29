@@ -10,14 +10,14 @@ Obs.: Crime type interpretation manual available (only in brazilian  portuguese)
 
 Since there is no API or JSON file available in the website, I scrapped data and created 3 complete datasetsin Python.
 
+----------------------------------
 Part 1 - Data extraction via webscrapping  using Selenium library, to navigate through the pages and extract data, and Pandas library to create and deal with dataframes from the scrapped data, including the crime types, year, city and region.
- Data available until march 2020.  
+ Data available until April 2020.  
  
- <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/80321175-6c2d5600-87f1-11ea-9642-dbb6e8671ee3.png">
- 
- 
- 
- --------------------------------------------------------
+Deploy:  E.T.L process to collect data automatically online, in  http://segurancabrasil.pythonanywhere.com/
+
+ -------------------------------------------------------
+
 ### Datasets disponíveis:
  - Taxas de Delito
  - Ocorrências mensais
@@ -36,16 +36,13 @@ Part 1 - Data extraction via webscrapping  using Selenium library, to navigate t
  -  Coordenadas geográficas das cidades de Sao Paulo : ds_SPcities_coordinates.csv  
  Tabela com coordenadas geográficas das cidades de São Paulo e código IBGE  ( Fonte: IBGE) 
   --------------------------------------------------------
- 
- 
- 
-Part 2 - data visualization with maps
+  
+ ------------------------------
+Part 2 - Data visualization - Dahsboards
 
-PowerBi online
+Monthly occurences dashboard developped in PowerBi 
+Link: https://app.powerbi.com/reportEmbed?reportId=69dc65c1-e94d-4942-a037-4d61bfebe66f&autoAuth=true&ctid=3027ed67-455f-442b-a148-66a12ede3583&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
-https://app.powerbi.com/reportEmbed?reportId=69dc65c1-e94d-4942-a037-4d61bfebe66f&autoAuth=true&ctid=3027ed67-455f-442b-a148-66a12ede3583&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
-
-
- <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/86045644-3fc8cc80-ba22-11ea-9c72-e81e5f0055ab.png">
+<img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/86045644-3fc8cc80-ba22-11ea-9c72-e81e5f0055ab.png">
 
 
