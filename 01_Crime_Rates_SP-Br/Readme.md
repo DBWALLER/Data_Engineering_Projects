@@ -14,7 +14,7 @@ Since there is no API or JSON file available in the website, I scrapped data and
 Part 1 - Data extraction via webscrapping  using Selenium library, to navigate through the pages and extract data, and Pandas library to create and deal with dataframes from the scrapped data, including the crime types, year, city and region.
  Data available until April 2020.  
  
-Deploy:  E.T.L process to collect data automatically online, in  http://segurancabrasil.pythonanywhere.com/
+Deployment:  E.T.L process developped in Pyrthon with Pandas and deployed in http://segurancabrasil.pythonanywhere.com/
 
  -------------------------------------------------------
 
