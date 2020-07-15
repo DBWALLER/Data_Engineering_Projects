@@ -44,9 +44,8 @@ Deployment:  E.T.L process developped in Pyrthon with Pandas and deployed in htt
 
 ### Part 2 - Data visualization - Dashboards
 
-Monthly occurences dashboard developped in PowerBi:
-  
- ##### Link: http://segurancabrasil.pythonanywhere.com/
+Monthly occurences dashboard developped in PowerBi and available at  
+ ##### http://segurancabrasil.pythonanywhere.com/
 
 Data until May/2020:
 
