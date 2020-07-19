@@ -3,15 +3,15 @@
 
 The aim is to obtain crime data of all São Paulo state cities through webscrapping techniques and develop an online ETL process to monthly update the datasets. Also the data visualization was prepared (in PowerBI), to provide information for the journalists and population in general.
  
-Data is available at Civil state Police statistics site:  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx   
+Data is available at Civil state Police statistics site (SSP):  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx   
 Obs.: Crime type interpretation manual available (only in brazilian  portuguese) at: http://www.ssp.sp.gov.br/Estatistica/download/manual.pdf
 
 ----------------------
 #### Part 1 - Data extraction via webscrapping  using Selenium library, to navigate through the pages and extract data, and Pandas library to create and deal with dataframes from the scrapped data, including the crime types, year, city and region.
 There is no API or JSON file available in the website, thus wescrapping was required.
 
-Deployment:  E.T.L. process developped in Pyrthon with Pandas and deployed in http://segurancabrasil.pythonanywhere.com/.
-Database automatic update.
+Deployment:  E.T.L. process developped in Pyrthon with Pandas and deployed in host http://segurancabrasil.pythonanywhere.com/.
+Database is automatically  updated monthly as soon as SSP site is updated.
  
 #### Available datasets:  
  - Crime rates ( Taxas de Delito)  -  from 2001 to 2019.
