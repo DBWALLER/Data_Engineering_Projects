@@ -10,8 +10,9 @@ Obs.: Crime type interpretation manual available (only in brazilian  portuguese)
 #### Part 1 - Data extraction via webscrapping  using Selenium library, to navigate through the pages and extract data, and Pandas library to create and deal with dataframes from the scrapped data, including the crime types, year, city and region.
 There is no API or JSON file available in the website, thus wescrapping was required.
 
-Deployment:  E.T.L. process developped in Pyrthon with Pandas and deployed in host http://segurancabrasil.pythonanywhere.com/.
-Database is automatically  updated monthly as soon as SSP site is updated.
+Deployment:  E.T.L. process developped in Python with Pandas. Dataset is automatically  updated monthly as soon as SSP site is updated.
+
+
  
 #### Available datasets:  
  - Crime rates ( Taxas de Delito)  -  from 2001 to 2019.
