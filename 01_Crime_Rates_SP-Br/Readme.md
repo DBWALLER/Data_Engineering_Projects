@@ -1,5 +1,5 @@
 
-### About Project 1: Crime rates in São Paulo state, Brazil
+## Project 1 ) Crime rates in São Paulo state, Brazil
 
 The aim is to obtain crime data of all São Paulo state cities through webscrapping techniques and develop an online ETL process to monthly update the datasets. Also the data visualization was prepared (in PowerBI), to provide information for the journalists and population in general.
  
