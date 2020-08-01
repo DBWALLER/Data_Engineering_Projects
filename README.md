@@ -41,8 +41,8 @@ Command lines in Python:
 -----------------------------------------------------------------------------------------------------------------
 # Data Engineering  -  Ressources
 -----------------------------------------------------------------------------------------------------------------
-## Webscrapping 
- -Web scraping with Python
+## Web scraping 
+- Web scraping with Python
  https://towardsdatascience.com/web-scraping-with-python-a-to-copy-z-277a445d64c7
 
 - How to find elements via CSS and Xpath
