@@ -46,12 +46,12 @@ Command lines in Python:
  https://towardsdatascience.com/web-scraping-with-python-a-to-copy-z-277a445d64c7
 
 - How to find elements via CSS and Xpath
-QArentena 20 - Localizando Elementos via CSS e XPath - com Danilo Freitas(in portugueses inly)
+QArentena 20 - Localizando Elementos via CSS e XPath - com Danilo Freitas(available only in portuguese)  
 https://www.youtube.com/watch?v=ZSAglCvKy9g
 
 - Understanding Regex (which can be usedful to search for a specific word in a text)
 https://www.w3schools.com/python/python_regex.asp
 
 - Working with Json
-https://www.w3schools.com/python/python_json.asp
+https://www.w3schools.com/python/python_json.asp  
 https://www.geeksforgeeks.org/how-to-convert-pandas-dataframe-into-json-in-python/
