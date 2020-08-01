@@ -1,6 +1,8 @@
-# Data  Mining projects  (Python)
 
-------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+# Data  Mining projects  (Python)
+-----------------------------------------------------------------------------------------------------------------
+
 ### 1. Crime statistics of São Paulo state cities (Brazil)
 
 Data is available at Civil state Police statistics site:  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx   
@@ -20,7 +22,6 @@ Dashboards:  http://segurancabrasil.pythonanywhere.com/
 
 Webscrapping of Tabela FIPE data (no official  API available) , containing  average value of cars, trucks and motocycles. Values in brazilian Reais (BRL or R$).
 
------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------
 ### 3) IBGE data tables   
@@ -36,4 +37,16 @@ Command lines in Python:
       import sys
       sys.path.append(r'yourpath\pyIBGE')
       import pyIBGE
+
+-----------------------------------------------------------------------------------------------------------------
+# Data Engineering  -  Ressources
+-----------------------------------------------------------------------------------------------------------------
+## Webscrapping
+
+- Understanding Regex (which can be usedful to search for a specific word in a text)
+https://www.w3schools.com/python/python_regex.asp
+
+- Working with Json
+https://www.w3schools.com/python/python_json.asp
+https://www.geeksforgeeks.org/how-to-convert-pandas-dataframe-into-json-in-python/
 
