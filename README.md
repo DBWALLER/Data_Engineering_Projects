@@ -39,7 +39,7 @@ Command lines in Python:
       import pyIBGE
 
 -----------------------------------------------------------------------------------------------------------------
-# Data Engineering  -  Ressources
+# Data Engineering  -  Resources
 -----------------------------------------------------------------------------------------------------------------
 ## Web scraping   
 - Web scraping with Python  
