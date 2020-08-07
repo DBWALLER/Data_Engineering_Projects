@@ -38,8 +38,8 @@ Option 1) Using command lines in Python:
       sys.path.append(r'yourpath\pyIBGE')  
       import pyIBGE    
 Option 2) Go to System properties --> environment variables --> click "Path"--> edit --> add folder name)    
+<img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/89600833-648e3c00-d839-11ea-8bab-3cfc6c3d37a0.png">
 
-edit the  system envirnment variables  
 -----------------------------------------------------------------------------------------------------------------
 # Data Engineering  -  Resources
 -----------------------------------------------------------------------------------------------------------------
