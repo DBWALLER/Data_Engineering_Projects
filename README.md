@@ -31,13 +31,15 @@ If you want to gather any table from the Brazilian Institute of Geography and St
 
 This module accesses the API from IBGe website:  http://api.sidra.ibge.gov.br/ 
 
-After you download the module PyIBGE in a local folder, you have to add the folder path into the sys.path of your computer. So Python can identify this module via 'import' command as you work with it.
+** After you download the module PyIBGE in a local folder, you have to add the folder path into the sys.path of your computer. So Python can identify this module via 'import' command as you work with it.  
 
-Command lines in Python:
-      import sys
-      sys.path.append(r'yourpath\pyIBGE')
-      import pyIBGE
+Option 1) Using command lines in Python:   
+      import sys  
+      sys.path.append(r'yourpath\pyIBGE')  
+      import pyIBGE    
+Option 2) Go to System properties --> environment variables --> click "Path"--> edit --> add folder name)    
 
+edit the  system envirnment variables  
 -----------------------------------------------------------------------------------------------------------------
 # Data Engineering  -  Resources
 -----------------------------------------------------------------------------------------------------------------
