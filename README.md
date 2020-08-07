@@ -3,7 +3,7 @@
 # Data  Mining projects  (Python)
 -----------------------------------------------------------------------------------------------------------------
 
-### 1. Crime statistics of São Paulo state cities (Brazil)
+### 1) Crime statistics of São Paulo state cities (Brazil)
 
 Data is available at Civil state Police statistics site:  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx   
 
