@@ -19,9 +19,9 @@ Deployment:  E.T.L. process developped in Python with Pandas. Dataset is automat
  - Crime rates ( "Taxas de Delito")  -  from 2001 to 2020   
    Note: Annual rates available. Crime rate data from current year will only be avaible in January of next year, after data consolidation.
  
- - Monthly occurences ("Ocorrências mensais") - from 2001 to 05/2020.  
+ - Monthly occurences ("Ocorrências mensais") - from 2001 to current month  
 
-- Policy productivity (Produtividade policial) -- from 2001 to 05/2020.
+- Policy productivity (Produtividade policial) -- from 2001 to current month
  
   Since there is a size limit for files upload here in Github, I have been uploading the datasets in Kaggle:
   https://www.kaggle.com/dbwaller/official-crime-data-sao-paulo-statebrazil-ssp
@@ -35,7 +35,8 @@ Deployment:  E.T.L. process developped in Python with Pandas. Dataset is automat
 
 Monthly occurences dashboard developped in PowerBi and available at  
  ### http://segurancabrasil.pythonanywhere.com/
-
+ Note: temporarily unavailable 
+ 
 Data until May/2020:
 
 <img width="956" alt="ssp-fig" src="https://user-images.githubusercontent.com/52055874/87192447-d8860480-c2cc-11ea-980d-e14b6d285658.png">
