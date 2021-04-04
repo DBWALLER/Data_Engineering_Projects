@@ -23,8 +23,8 @@ Deployment:  E.T.L. process developped in Python with Pandas. Dataset is automat
 
 - Policy productivity (Produtividade policial) -- from 2001 to current month
  
-  Since there is a size limit for files upload here in Github, I have been uploading the datasets in Kaggle:
-  https://www.kaggle.com/dbwaller/official-crime-data-sao-paulo-statebrazil-ssp
+  **Since there is a size limit for files upload here in Github, I have been uploading the datasets in Kaggle:**
+  **https://www.kaggle.com/dbwaller/official-crime-data-sao-paulo-statebrazil-ssp**
 
 -  Geographic coordinates of São Paulo state cities and its respective IBGE codes :  ds_SPcities_coordinates.csv  
    IBGE:  Brazilian Institute of Geography and Statistics
