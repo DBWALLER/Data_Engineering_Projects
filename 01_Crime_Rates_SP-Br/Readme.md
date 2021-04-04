@@ -1,6 +1,9 @@
 
 ## Project 1 ) Crime rates in São Paulo state, Brazil
 
+Link: https://www.kaggle.com/dbwaller/official-crime-data-sao-paulo-statebrazil-ssp
+
+
 The aim is to obtain crime data of all São Paulo state cities through webscrapping techniques and develop an online ETL process to monthly update the datasets. Also the data visualization was prepared (in PowerBI), to provide information for the journalists and population in general.
  
 Data is available at Civil state Police statistics site (SSP):  http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx   
